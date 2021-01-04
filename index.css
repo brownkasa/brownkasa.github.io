@@ -33,7 +33,6 @@ body {
     align-items: center;
     justify-content: space-between;
     height: 90vh;
-    margin-bottom: 50px;
 }
 .brownTitle {
     font-size: 50px;
@@ -47,4 +46,13 @@ body {
 }
 .mailingListLink:hover {
     color: #9e9e9e;
+}
+
+.about {
+    padding-top: 100px;
+}
+
+.contact {
+    padding-top: 100px;
+    padding-bottom: 100px;
 }
